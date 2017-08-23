@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:3:5-59
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sanazk/.android/build-cache/e1884aee2d2ac870de1164c7eacf523f7c108200/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sanazk/.android/build-cache/2347075e5f6d5d3a215717fe0ce768c4f1d900ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sanazk/.android/build-cache/56f3028700d4c3d2172eeeca0a0e15f0a888d267/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sanazk/.android/build-cache/4acf54228baa881317f44b2d87c84cfa999e8a41/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sanazk/.android/build-cache/b6e66da61696bfc54af92bfd409b537dace9bd3a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/13f6d2916965283b3dec58a744bf1bdb0c60d5d3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/81f93badfded0a68af457a46c9a5e7beb2566f7d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sanazk/.android/build-cache/30e4664ba955881081a7779eb850e293439b300c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanazk/.android/build-cache/9ac3e8fc5602f08fbdb3adfed48bc4286df11b2a/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapp.activities.CreateTodoItemActivity
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:12:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sanazk/.android/build-cache/e1884aee2d2ac870de1164c7eacf523f7c108200/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sanazk/.android/build-cache/2347075e5f6d5d3a215717fe0ce768c4f1d900ff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sanazk/.android/build-cache/56f3028700d4c3d2172eeeca0a0e15f0a888d267/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sanazk/.android/build-cache/4acf54228baa881317f44b2d87c84cfa999e8a41/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sanazk/.android/build-cache/b6e66da61696bfc54af92bfd409b537dace9bd3a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/13f6d2916965283b3dec58a744bf1bdb0c60d5d3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/81f93badfded0a68af457a46c9a5e7beb2566f7d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sanazk/.android/build-cache/30e4664ba955881081a7779eb850e293439b300c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanazk/.android/build-cache/9ac3e8fc5602f08fbdb3adfed48bc4286df11b2a/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanazk/Desktop/University/CodePath/ProToDoAppGitVersion/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sanazk/.android/build-cache/e1884aee2d2ac870de1164c7eacf523f7c108200/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sanazk/.android/build-cache/2347075e5f6d5d3a215717fe0ce768c4f1d900ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sanazk/.android/build-cache/56f3028700d4c3d2172eeeca0a0e15f0a888d267/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sanazk/.android/build-cache/4acf54228baa881317f44b2d87c84cfa999e8a41/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sanazk/.android/build-cache/b6e66da61696bfc54af92bfd409b537dace9bd3a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/13f6d2916965283b3dec58a744bf1bdb0c60d5d3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sanazk/.android/build-cache/81f93badfded0a68af457a46c9a5e7beb2566f7d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sanazk/.android/build-cache/30e4664ba955881081a7779eb850e293439b300c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sanazk/.android/build-cache/1379dc148b3774dd61ca30ee112ebf6204318fc6/output/AndroidManifest.xml:26:9-47
