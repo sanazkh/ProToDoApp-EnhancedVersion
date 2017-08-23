@@ -1,11 +1,11 @@
-# Pro-To-Do---DB
-# Pre-work - *Pro To-Do DB Application*
+# ProToDoApp-EnhancedVersion
+# Pre-work - *Pro To-Do Application*
 
 **Pro To-Do Application* is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Sanaz Khosravi**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## A user can add a task, delete, or edit a task.
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/kLbPhtu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/L44KMfT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
